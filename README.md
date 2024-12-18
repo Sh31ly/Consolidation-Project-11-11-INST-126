@@ -8,6 +8,7 @@ You can re-roll the dice as many times as you would like to, however, if you get
 Your scores are tracked and saved, so after the game a fun little graph pops up showing everyones scores!
 
 Ensure Python is installed/works on your device.
+There are two files needed to run the game. Function_Land.py hosts the functions to run the game. Main_Game.py hosts the main game program. Both are needed within the same directory in order to run the game. If an error occurs, create a new folder and put the two files in the new folder.
 Ensure the packages pandas, seaborn, and matplotlib are installed correctly as well.
 
 To start the game, execute the Main Game file, enter the number of players and imput the names, then you're ready to go!
